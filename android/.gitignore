@@ -1,0 +1,64 @@
+# Flutter related
+.build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.dart_tool/
+.merged_bundles/
+android/.gradle/
+GeneratedPluginRegistrant.java
+
+# Gradle
+gradle-wrapper.jar
+/.gradle/
+/gradlew
+/gradlew.bat
+/local.properties
+/android/build/
+android/app/build/
+.gradle/
+/captures/
+
+# macOS
+.DS_Store
+
+# Linux
+linux/flutter/generated_plugin_registrant.cc
+
+# Windows
+windows/flutter/generated_plugin_registrant.cc
+
+# Web
+web/flutter/generated_plugin_registrant.dart
+
+# iOS
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+
+# Keystore files
+key.properties
+**/*.jks
+**/*.keystore
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Firebase related
+.firebase/
+.firebase_cache/
+firebase-debug.log
+
+# Other files
+pubspec.lock
+*.log
